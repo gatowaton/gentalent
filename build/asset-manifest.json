@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.bdfc887a.css",
-    "main.js": "/static/js/main.eab31970.js",
+    "main.js": "/static/js/main.bd457bc3.js",
     "static/media/casadiazimg1.png": "/static/media/casadiazimg1.a5b6f2fbe126670b66da.png",
     "static/media/js.png": "/static/media/js.ba0a928588f389c91981.png",
     "static/media/PabloCavadaCv.pdf": "/static/media/PabloCavadaCv.41ef9681bf191b9ab62b.pdf",
@@ -18,10 +18,10 @@
     "static/media/mongo.png": "/static/media/mongo.c964002ecef4971216d0.png",
     "index.html": "/index.html",
     "main.bdfc887a.css.map": "/static/css/main.bdfc887a.css.map",
-    "main.eab31970.js.map": "/static/js/main.eab31970.js.map"
+    "main.bd457bc3.js.map": "/static/js/main.bd457bc3.js.map"
   },
   "entrypoints": [
     "static/css/main.bdfc887a.css",
-    "static/js/main.eab31970.js"
+    "static/js/main.bd457bc3.js"
   ]
 }

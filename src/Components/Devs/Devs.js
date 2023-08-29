@@ -26,7 +26,7 @@ function Devs() {
                     <a href="https://www.linkedin.com/in/pablo-cavada/" target='_blank' rel="noopener noreferrer">
                     <button className='button-29'><LinkedInIcon/><span>LinkedIn</span></button>
                     </a>
-                    <a href="https://github.com/gatowaton" rel="noopener noreferrer">
+                    <a href="https://github.com/gatowaton" rtarget='_blank' rel="noopener noreferrer">
                     <button className='button-29'><GitHubIcon/><span>GitHub</span></button>
                     </a>
                 </div>

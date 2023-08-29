@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bdfc887a.css",
+    "main.js": "/static/js/main.eab31970.js",
+    "static/media/casadiazimg1.png": "/static/media/casadiazimg1.a5b6f2fbe126670b66da.png",
+    "static/media/js.png": "/static/media/js.ba0a928588f389c91981.png",
+    "static/media/PabloCavadaCv.pdf": "/static/media/PabloCavadaCv.41ef9681bf191b9ab62b.pdf",
+    "static/media/EfrainCerdaCv.pdf": "/static/media/EfrainCerdaCv.b8e93a7817edd781b879.pdf",
+    "static/media/dev-img-1.png": "/static/media/dev-img-1.4ca45b877b2f52ee1b52.png",
+    "static/media/casadiazimg2.png": "/static/media/casadiazimg2.f814daf54af68d697c81.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.cb0fcc269e8250f3551b.png",
+    "static/media/JesusRojasCv.pdf": "/static/media/JesusRojasCv.0e74c88a1064976adb91.pdf",
+    "static/media/css.png": "/static/media/css.74ff0b5fd86f9eadddd3.png",
+    "static/media/git.png": "/static/media/git.faccfae3c97596fcb27e.png",
+    "static/media/html.png": "/static/media/html.f3aa7827cd5160f3fc1c.png",
+    "static/media/JosefaLaporteCv.pdf": "/static/media/JosefaLaporteCv.200b4d4504d876e2353b.pdf",
+    "static/media/react.png": "/static/media/react.cd4ab68456d5875b788e.png",
+    "static/media/mongo.png": "/static/media/mongo.c964002ecef4971216d0.png",
+    "index.html": "/index.html",
+    "main.bdfc887a.css.map": "/static/css/main.bdfc887a.css.map",
+    "main.eab31970.js.map": "/static/js/main.eab31970.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdfc887a.css",
+    "static/js/main.eab31970.js"
+  ]
+}

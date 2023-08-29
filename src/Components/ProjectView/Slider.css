@@ -1,0 +1,15 @@
+.projectSlider{
+    display: flex;
+    margin: 2em auto;
+}
+.carousel-item{
+}
+
+.carousel-img{
+    border-radius: 20px;
+}
+
+.carousel-text{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+}

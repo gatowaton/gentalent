@@ -4,10 +4,11 @@ import devImg1 from './Dev-img/dev-img-1.png'
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import DownloadIcon from '@mui/icons-material/Download';
-import pdf1 from "./Devs-CV/PabloCavadaCv.pdf";
+import pdf1 from "./Devs-CV/PabloCavada_CV.pdf";
 import pdf2 from "./Devs-CV/JosefaLaporteCv.pdf";
 import pdf3 from "./Devs-CV/JesusRojasCv.pdf";
 import pdf4 from "./Devs-CV/EfrainCerdaCv.pdf";
+import pdf5 from "./Devs-CV/GabrielFuentesCv.pdf";
 
 
 function Devs() {
@@ -20,6 +21,7 @@ function Devs() {
             <div className='dev-info'>
                 <h2>Pablo Cavada</h2>
                 <h3>Full Stack Developer</h3>
+                <h4>Scrum Master</h4>
             </div>
             <div className='dev-btns'>
                 <div className='dev-btns-1'>
@@ -52,7 +54,7 @@ function Devs() {
                     <button className='button-29'><GitHubIcon/><span>GitHub</span></button>
                     </a>
                 </div>
-                <a href={pdf1} target='_blank' rel="noopener noreferrer">
+                <a href={pdf5} target='_blank' rel="noopener noreferrer">
                 <button className='button-29'><DownloadIcon/><span>Curriculum Vitae</span></button>
                 </a>
             </div>
@@ -108,6 +110,7 @@ function Devs() {
             <div className='dev-info'>
                 <h2>Efrain Cerda</h2>
                 <h3>Full Stack Developer</h3>
+                <h4>Product Owner</h4>
             </div>
             <div className='dev-btns'>
                 <div className='dev-btns-1'>

@@ -1,26 +1,39 @@
 import React from "react";
 import Slider from "./Slider";
 import "./ProjectView.css";
-import GitHubIcon from '@mui/icons-material/GitHub';
+import GitHubIcon from "@mui/icons-material/GitHub";
 
 function ProjectView() {
   return (
     <div className="projectView-container">
       <Slider />
-    <div className="buttons">
-    <button className="button-slider">
-        <span className="shadow"></span>
-        <span className="edge"></span>
-        <span className="front text"> Project Code</span>
-      </button>
+      <div className="buttons">
+        <a
+          href="https://casa-qwcy.onrender.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <button className="button-slider">
+            <span className="shadow"></span>
+            <span className="edge"></span>
+            <span className="front text"> Project View</span>
+          </button>
+        </a>
 
-      <button className="button-slider">
-        <span className="shadow"></span>
-        <span className="edge2"></span>
-        <span className="front2 text"><GitHubIcon/> Project Code</span>
-      </button>
-    </div>
-
+        <a
+          href="https://github.com/gatowaton/Casa-Diaz-Project"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <button className="button-slider">
+            <span className="shadow"></span>
+            <span className="edge2"></span>
+            <span className="front2 text">
+              <GitHubIcon /> Project Code
+            </span>
+          </button>
+        </a>
+      </div>
 
       <div className="projectView-text">
         <h1>Casa diaz SPA Ecommerce</h1>

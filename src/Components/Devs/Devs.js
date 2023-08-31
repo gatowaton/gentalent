@@ -1,6 +1,5 @@
 import React from 'react'
 import "./Devs.css"
-import devImg1 from './Dev-img/dev-img-1.png'
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import DownloadIcon from '@mui/icons-material/Download';
@@ -9,6 +8,11 @@ import pdf2 from "./Devs-CV/JosefaLaporteCv.pdf";
 import pdf3 from "./Devs-CV/JesusRojasCv.pdf";
 import pdf4 from "./Devs-CV/EfrainCerdaCv.pdf";
 import pdf5 from "./Devs-CV/GabrielFuentesCv.pdf";
+import dev1 from "./Dev-img/pabloimg2.jpg"
+import dev2 from "./Dev-img/gabrielimg.jpg"
+import dev3 from "./Dev-img/josefaimg.jpeg"
+import dev4 from "./Dev-img/efrainimg.jpg"
+import dev5 from "./Dev-img/jesusimg.jpg"
 
 
 function Devs() {
@@ -16,7 +20,7 @@ function Devs() {
     <div className='dev-container'>
        <div className='dev-card'>
             <div className='dev-card-img-container'>
-                <img src={devImg1} alt={devImg1} />
+                <img src={dev1} alt={dev1} />
             </div> 
             <div className='dev-info'>
                 <h2>Pablo Cavada</h2>
@@ -39,7 +43,7 @@ function Devs() {
        </div>
        <div className='dev-card'>
             <div className='dev-card-img-container'>
-                <img src={devImg1} alt={devImg1} />
+                <img src={dev2} alt={dev2} />
             </div> 
             <div className='dev-info'>
                 <h2>Gabriel Fuentes</h2>
@@ -61,7 +65,7 @@ function Devs() {
        </div> 
        <div className='dev-card'>
             <div className='dev-card-img-container'>
-                <img src={devImg1} alt={devImg1} />
+                <img src={dev3} alt={dev3} />
             </div> 
             <div className='dev-info'>
                 <h2>Josefa Laporte</h2>
@@ -83,7 +87,7 @@ function Devs() {
        </div>
        <div className='dev-card'>
             <div className='dev-card-img-container'>
-                <img src={devImg1} alt={devImg1} />
+                <img src={dev5} alt={dev5} />
             </div> 
             <div className='dev-info'>
                 <h2>Jesús Rojas</h2>
@@ -105,7 +109,7 @@ function Devs() {
        </div>
        <div className='dev-card'>
             <div className='dev-card-img-container'>
-                <img src={devImg1} alt={devImg1} />
+                <img src={dev4} alt={dev4} />
             </div> 
             <div className='dev-info'>
                 <h2>Efrain Cerda</h2>

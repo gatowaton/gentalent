@@ -1,14 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.bdfc887a.css",
-    "main.js": "/static/js/main.4471468c.js",
+    "main.css": "/static/css/main.511b51cc.css",
+    "main.js": "/static/js/main.f9fc0c10.js",
+    "static/media/gabrielimg.jpg": "/static/media/gabrielimg.e45d655c94fc2db96daa.jpg",
+    "static/media/josefaimg.jpeg": "/static/media/josefaimg.934a4ba3a00135209d8a.jpeg",
+    "static/media/pabloimg2.jpg": "/static/media/pabloimg2.5fd68fe2bce1a92c320f.jpg",
     "static/media/GabrielFuentesCv.pdf": "/static/media/GabrielFuentesCv.006f01210686807c3adf.pdf",
+    "static/media/efrainimg.jpg": "/static/media/efrainimg.8989fb6da6445240b865.jpg",
     "static/media/slider5.png": "/static/media/slider5.ea51f1c751d4a2a1b375.png",
     "static/media/slider3.png": "/static/media/slider3.c38505a622e764f493a9.png",
     "static/media/js.png": "/static/media/js.ba0a928588f389c91981.png",
     "static/media/EfrainCerdaCv.pdf": "/static/media/EfrainCerdaCv.b8e93a7817edd781b879.pdf",
+    "static/media/qrTeam6.png": "/static/media/qrTeam6.59f0dcf2251d6abfe687.png",
     "static/media/PabloCavada_CV.pdf": "/static/media/PabloCavada_CV.f9b88e1d148eefeb72d5.pdf",
-    "static/media/dev-img-1.png": "/static/media/dev-img-1.4ca45b877b2f52ee1b52.png",
+    "static/media/jesusimg.jpg": "/static/media/jesusimg.6d4b83d38b00609650d9.jpg",
     "static/media/slider1.png": "/static/media/slider1.a6b066fd74865e366c86.png",
     "static/media/slider4.png": "/static/media/slider4.47a60fa5665472b64153.png",
     "static/media/bootstrap.png": "/static/media/bootstrap.cb0fcc269e8250f3551b.png",
@@ -21,11 +26,11 @@
     "static/media/react.png": "/static/media/react.cd4ab68456d5875b788e.png",
     "static/media/mongo.png": "/static/media/mongo.c964002ecef4971216d0.png",
     "index.html": "/index.html",
-    "main.bdfc887a.css.map": "/static/css/main.bdfc887a.css.map",
-    "main.4471468c.js.map": "/static/js/main.4471468c.js.map"
+    "main.511b51cc.css.map": "/static/css/main.511b51cc.css.map",
+    "main.f9fc0c10.js.map": "/static/js/main.f9fc0c10.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdfc887a.css",
-    "static/js/main.4471468c.js"
+    "static/css/main.511b51cc.css",
+    "static/js/main.f9fc0c10.js"
   ]
 }

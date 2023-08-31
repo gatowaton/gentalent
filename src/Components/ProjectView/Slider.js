@@ -21,33 +21,18 @@ function Slider() {
   <div className="carousel-inner">
     <div className="carousel-item active">
       <img src={img5} className="d-block w-100  carousel-img" alt="..."/>
-      <div className="carousel-caption d-none d-md-block carousel-text">
-        <p>Ecommerce profesional con todas las características necesarias para potenciar tu negocio.</p>
-      </div>
     </div>
     <div className="carousel-item">
       <img src={img1} className="d-block w-100 carousel-img" alt="..."/>
-      <div className="carousel-caption d-none d-md-block carousel-text">
-        <p>Mas de 200 productos en base de datos.</p>
-      </div>
     </div>
     <div className="carousel-item">
       <img src={img2} className="d-block w-100  carousel-img" alt="..."/>
-      <div className="carousel-caption d-none d-md-block carousel-text">
-        <p>Carrito de compras.</p>
-      </div>
     </div>
     <div className="carousel-item">
       <img src={img3} className="d-block w-100  carousel-img" alt="..."/>
-      <div className="carousel-caption d-none d-md-block carousel-text">
-        <p>Compra con Mercado Pago.</p>
-      </div>
     </div>
     <div className="carousel-item">
       <img src={img4} className="d-block w-100  carousel-img" alt="..."/>
-      <div className="carousel-caption d-none d-md-block carousel-text">
-        <p>Filtra los productos por nombre y categoría.</p>
-      </div>
     </div>
   </div>
   <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">

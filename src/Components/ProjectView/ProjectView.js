@@ -2,6 +2,8 @@ import React from "react";
 import Slider from "./Slider";
 import "./ProjectView.css";
 import GitHubIcon from "@mui/icons-material/GitHub";
+import LanguageIcon from "@mui/icons-material/Language";
+import { Link } from 'react-router-dom';
 
 function ProjectView() {
   return (
@@ -16,7 +18,10 @@ function ProjectView() {
           <button className="button-slider">
             <span className="shadow"></span>
             <span className="edge"></span>
-            <span className="front text"> Project View</span>
+            <span className="front text">
+              {" "}
+              <LanguageIcon /> Project View
+            </span>
           </button>
         </a>
 
@@ -38,20 +43,20 @@ function ProjectView() {
       <div className="projectView-text">
         <h1>Casa diaz SPA Ecommerce</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur,
-          labore. Repellat odio numquam distinctio qui, labore iure itaque
-          aliquam amet voluptatibus, magnam quis ducimus iste deleniti ea sequi
-          quia omnis recusandae inventore. Iusto odit, minus eligendi doloremque
-          ipsa molestiae eos, debitis error, deserunt perferendis dolores neque
-          quos earum unde placeat consectetur dolorum. Recusandae quidem magnam
-          optio laborum voluptas praesentium dolorum earum tempore qui nostrum
-          facere delectus, nobis dolore necessitatibus iure tenetur quasi
-          consequuntur rerum perspiciatis hic ab! Pariatur dolorem tempora,
-          labore quidem ipsa qui eveniet sit blanditiis ullam quis earum
-          veritatis voluptas magnam nulla unde commodi, nisi saepe doloremque
-          debitis!
-        </p>
+          A nuestro equipo se le dio el trabajo de crear un Ecommerce para un
+          emprendedor que vende productos eléctricos industriales y nuestro
+          objetivo era hacer una herramienta que le ayudara a alcanzar a más
+          clientes y exhibir sus productos.</p><p> Para construir este proyecto se
+          utilizaron las tecnologías más demandadas del área de la programación.</p>
+          <p>Este Ecommerce cuenta con características que lo hacen una herramienta
+          muy útil para si negocio, tales como creación de productos y gestión
+          de inventario, autentificación de usuarios para guardar las ordenes de
+          sus clientes, pasarela de pago para realizar compras online, filtrar
+          productos por categorías y se le dio un diseño intuitivo y acorde al
+          público objetivo.</p>
+        
       </div>
+      <Link to="/qr"><button className='button-29'>QR Code</button></Link>
     </div>
   );
 }

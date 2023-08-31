@@ -1,0 +1,17 @@
+.qr-code-page{
+    height: 100vh;
+    
+}
+
+.qr-code{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    & img{
+        width: 20em;
+        margin: auto;
+    }& h1{
+        color: white;
+        font-weight: 800;
+    } 
+  }

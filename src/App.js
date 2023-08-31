@@ -1,14 +1,18 @@
 import './App.css';
-import Devs from './Components/Devs/Devs';
-import Libreries from './Components/Libreries/Libreries';
-import ProjectView from './Components/ProjectView/ProjectView';
+import { BrowserRouter, Routes, Route} from "react-router-dom";
+import QrCode from './Components/QRcode/QrCode';
+import Home from './Home';
 
 function App() {
   return (
     <div className="App">
-      <ProjectView/>
-      <Devs/>
-      <Libreries/>
+      <BrowserRouter>
+      <Routes>
+        <Route path='/' element={<Home/>}></Route>
+        <Route path="/qr" element={<QrCode/>}></Route>
+      </Routes>
+      </BrowserRouter>
+      
     </div>
   );
 }

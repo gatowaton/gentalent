@@ -20,6 +20,7 @@
         transform: translateY(-3px);
         transition: all 0.5s;
     }& img{
+        overflow: hidden;
         width: 4.5em;
         object-fit:contain;
     }

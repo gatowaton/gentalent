@@ -49,7 +49,7 @@ function ProjectView() {
           clientes y exhibir sus productos.</p><p> Para construir este proyecto se
           utilizaron las tecnologías más demandadas del área de la programación.</p>
           <p>Este Ecommerce cuenta con características que lo hacen una herramienta
-          muy útil para si negocio, tales como creación de productos y gestión
+          muy útil para su negocio, tales como creación de productos y gestión
           de inventario, autentificación de usuarios para guardar las ordenes de
           sus clientes, pasarela de pago para realizar compras online, filtrar
           productos por categorías y se le dio un diseño intuitivo y acorde al

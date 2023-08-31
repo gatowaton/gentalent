@@ -7,7 +7,7 @@ function QrCode() {
     <div className='qr-code-page'>
         <div className='qr-code'>
             <img src={qr} alt={qr} />
-            <h1>¡Conocenos!</h1>
+            <h1>¡Conócenos!</h1>
         </div>
         <div>
             

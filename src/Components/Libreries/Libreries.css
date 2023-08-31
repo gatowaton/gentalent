@@ -9,20 +9,24 @@
     flex-wrap: wrap;
     justify-content: center;
     margin-top: 1em;
-    & div{
-        display: flex;
-        background-color: white;
-        margin: 1em;
-        padding: 0.5em;
-        border-radius: 20px;
-        box-shadow: 0px 0px 33px -3px rgba(0,0,0,0.75);
-    }& div:hover{
-        transform: translateY(-3px);
-        transition: all 0.5s;
-    }& img{
-        overflow: hidden;
-        width: 4.5em;
-        object-fit:contain;
-    }
+}
 
+.img-container div{
+    display: flex;
+    background-color: white;
+    margin: 1em;
+    padding: 0.5em;
+    border-radius: 20px;
+    box-shadow: 0px 0px 33px -3px rgba(0,0,0,0.75);
+}
+
+.img-container div:hover{
+    transform: translateY(-3px);
+    transition: all 0.5s;
+}
+
+.img-container img{
+    overflow: hidden;
+    width: 4.5em;
+    object-fit:contain;
 }

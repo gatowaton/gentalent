@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.c77caeec.css",
-    "main.js": "/static/js/main.9393f9c7.js",
-    "static/media/gabrielimg.jpg": "/static/media/gabrielimg.e45d655c94fc2db96daa.jpg",
+    "main.css": "/static/css/main.9ec17b0a.css",
+    "main.js": "/static/js/main.17a84072.js",
     "static/media/josefaimg.jpeg": "/static/media/josefaimg.934a4ba3a00135209d8a.jpeg",
+    "static/media/gabrielimg.jpg": "/static/media/gabrielimg.fe62d05b4ec09d056519.jpg",
     "static/media/pabloimg2.jpg": "/static/media/pabloimg2.5fd68fe2bce1a92c320f.jpg",
     "static/media/GabrielFuentesCv.pdf": "/static/media/GabrielFuentesCv.006f01210686807c3adf.pdf",
     "static/media/efrainimg.jpg": "/static/media/efrainimg.8989fb6da6445240b865.jpg",
@@ -12,7 +12,7 @@
     "static/media/js.png": "/static/media/js.ba0a928588f389c91981.png",
     "static/media/EfrainCerdaCv.pdf": "/static/media/EfrainCerdaCv.b8e93a7817edd781b879.pdf",
     "static/media/qrTeam6.png": "/static/media/qrTeam6.59f0dcf2251d6abfe687.png",
-    "static/media/PabloCavada_CV.pdf": "/static/media/PabloCavada_CV.f9b88e1d148eefeb72d5.pdf",
+    "static/media/PabloCavada_CV.pdf": "/static/media/PabloCavada_CV.a9713269cc36d09629ab.pdf",
     "static/media/jesusimg.jpg": "/static/media/jesusimg.6d4b83d38b00609650d9.jpg",
     "static/media/slider1.png": "/static/media/slider1.a6b066fd74865e366c86.png",
     "static/media/slider4.png": "/static/media/slider4.47a60fa5665472b64153.png",
@@ -26,11 +26,11 @@
     "static/media/react.png": "/static/media/react.cd4ab68456d5875b788e.png",
     "static/media/mongo.png": "/static/media/mongo.c964002ecef4971216d0.png",
     "index.html": "/index.html",
-    "main.c77caeec.css.map": "/static/css/main.c77caeec.css.map",
-    "main.9393f9c7.js.map": "/static/js/main.9393f9c7.js.map"
+    "main.9ec17b0a.css.map": "/static/css/main.9ec17b0a.css.map",
+    "main.17a84072.js.map": "/static/js/main.17a84072.js.map"
   },
   "entrypoints": [
-    "static/css/main.c77caeec.css",
-    "static/js/main.9393f9c7.js"
+    "static/css/main.9ec17b0a.css",
+    "static/js/main.17a84072.js"
   ]
 }

@@ -1,5 +1,5 @@
 import React from 'react'
-import qr from "./qrTeam6.png"
+import qr from "./qrTeam.png"
 import "./Qr.css"
 
 function QrCode() {
